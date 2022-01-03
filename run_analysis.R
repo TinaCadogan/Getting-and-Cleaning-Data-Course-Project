@@ -70,3 +70,4 @@ write.table(Data2, file = "tidydata.txt",row.name=FALSE)
 
 
 
+
